@@ -1841,8 +1841,5 @@ main {
         margin-bottom: 0
     }
 }
-button.yt-icon-button:focus {
-    vertical-align: middle;
-    color: #01a715;
-}
+
 
